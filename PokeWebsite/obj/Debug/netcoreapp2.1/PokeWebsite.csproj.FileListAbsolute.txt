@@ -29,3 +29,5 @@ C:\gitProjects\PokeWebsite\PokeWebsite\obj\Debug\netcoreapp2.1\PokeWebsite.Views
 C:\gitProjects\PokeWebsite\PokeWebsite\obj\Debug\netcoreapp2.1\PokeWebsite.dll
 C:\gitProjects\PokeWebsite\PokeWebsite\obj\Debug\netcoreapp2.1\PokeWebsite.pdb
 C:\gitProjects\PokeWebsite\PokeWebsite\obj\Debug\netcoreapp2.1\PokeWebsite.csproj.CopyComplete
+C:\gitProjects\PokeWebsite\PokeWebsite\obj\Debug\netcoreapp2.1\PokeWebsite.csprojAssemblyReference.cache
+C:\gitProjects\PokeWebsite\PokeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Poke\Index.g.cshtml.cs
